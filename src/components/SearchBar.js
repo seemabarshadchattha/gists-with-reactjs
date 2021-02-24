@@ -17,7 +17,7 @@ class SearchBar extends React.Component {
       <div>
         <form onSubmit={this.onFormSubmit}>
           <div className="form-group">
-            <label htmlFor="exampleInputEmail1">Search</label>
+            <label htmlFor="exampleInputEmail1">Search Bar</label>
             <input
               type="text"
               className="form-control"
